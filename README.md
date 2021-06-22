@@ -1,5 +1,5 @@
 <p align="left">
-  <h2>İstatistik</h2>
+  <h2>Delarmuss</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=delarmuss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Delarmuss's github stats"/>
 </p> 
 
