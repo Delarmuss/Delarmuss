@@ -16,5 +16,5 @@
     <img src="https://img.shields.io/badge/Twitch-Delarmuss-9147FF?style=for-the-badge&logo=twitch">
     </a>
      <a href="https://github.com/delarmuss">
-    <img alt="Github" src="https://img.shields.io/github/followers/delarmuss?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
+    <img alt="Github" src="https://img.shields.io/github/followers/Delarmuss?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
 </p>
