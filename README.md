@@ -10,7 +10,7 @@
     <img alt="Github" src="https://img.shields.io/github/followers/delarmuss?color=1DA1F2&logo=github&label=Followers&style=for-the-badge"></a>   
     <a href="https://discord.gg/VRazacsU5U" rel="nofollow">
     <img src="https://img.shields.io/discord/837321402130366541?label=Discord&style=for-the-badge"  style="max-width:100%;"></a>
-    <a href="">
+    <a href="https://www.youtube.com/channel/UCydD_5R--qyHmuUtRogeYBA">
     <img src="https://img.shields.io/badge/Youtube-Abone%20Ol-red?style=for-the-badge&logo=youtube">
     </a>
 </p>
