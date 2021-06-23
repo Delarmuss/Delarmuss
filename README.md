@@ -1,6 +1,10 @@
 <p align="left">
   <h2>Delarmuss</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=delarmuss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Delarmuss's github stats"/>
+  
+![delarmuss](https://github-readme-stats.vercel.app/api?username=delarmuss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+![delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
 </p> 
 
 <p align="left">
