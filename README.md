@@ -3,7 +3,7 @@
   
 ![delarmuss](https://github-readme-stats.vercel.app/api?username=delarmuss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+[![delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/delarmuss/github-readme-stats)
 
 </p> 
 
