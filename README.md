@@ -11,7 +11,7 @@
     <h2>Buralardayım</h2>
     <a href="https://discordapp.com/users/705186989728858164">
     <img src="https://img.shields.io/badge/Discord-Delarmuss-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'"></a>
-    <a href="https://discord.gg/fkMGQPYs9c">
+    <a href="https://discord.gg/JGuv339YG4">
     <img src="https://img.shields.io/discord/837321402130366541?label=Discord&style=for-the-badge&logo=discord&color=7289DA"></a>
     <a href="https://www.youtube.com/channel/UCydD_5R--qyHmuUtRogeYBA">
     <img src="https://img.shields.io/badge/Youtube-Delarmuss-FF0000?style=for-the-badge&logo=youtube"></a>
