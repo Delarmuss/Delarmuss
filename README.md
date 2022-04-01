@@ -1,10 +1,6 @@
 <p align="left">
   <h2>Delarmuss</h2>
-  
-[![delarmuss](https://github-readme-stats.vercel.app/api?username=delarmuss&show_icons=true&title_color=f4f4f4&icon_color=03FCB5&text_color=f4f4f4&bg_color=1B1847)](https://github.com/delarmuss)
-
-[![delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&layout=compact&title_color=f4f4f4&icon_color=03FCB5&text_color=f4f4f4&bg_color=1B1847)](https://github.com/delarmuss)
-
+  [![delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&layout=compact&title_color=f4f4f4&icon_color=03FCB5&text_color=f4f4f4&bg_color=1B1847)](https://github.com/delarmuss)
 </p> 
 
 <p align="left">
@@ -22,6 +18,7 @@
     </a>
     <br />
     <a href="https://www.twitch.tv/delarmuss">
+      TWITCH
       <img src="https://img.shields.io/badge/Twitch-Delarmuss-9147FF?style=for-the-badge&logo=twitch">
     </a>
     <br />
