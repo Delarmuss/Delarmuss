@@ -20,6 +20,7 @@
     <a href="https://www.youtube.com/channel/UCydD_5R--qyHmuUtRogeYBA">
       <img src="https://img.shields.io/badge/Youtube-Delarmuss-FF0000?style=for-the-badge&logo=youtube">
     </a>
+    <br />
     <a href="https://www.twitch.tv/delarmuss">
       <img src="https://img.shields.io/badge/Twitch-Delarmuss-9147FF?style=for-the-badge&logo=twitch">
     </a>
