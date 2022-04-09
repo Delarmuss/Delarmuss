@@ -18,5 +18,7 @@
       <img src="https://img.shields.io/badge/Twitch-Delarmuss-9147FF?style=for-the-badge&logo=twitch">
     </a>
     <br />
+    <a href="javascript:;" target="_blank"
     <img src="https://img.shields.io/github/followers/Delarmuss?color=1DA1F2&logo=github&label=Followers&style=for-the-badge">
+    </a>
 </p>
