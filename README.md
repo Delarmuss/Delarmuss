@@ -1,10 +1,10 @@
 <p align="left">
   <h2>Delarmuss</h2>
   
-  [![delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&layout=compact&title_color=f4f4f4&icon_color=03FCB5&text_color=f4f4f4&bg_color=1B1847)](https://github.com/delarmuss)
+  [!delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&layout=compact&title_color=f4f4f4&icon_color=03FCB5&text_color=f4f4f4&bg_color=1B1847)](https://github.com/delarmuss)
 </p> 
 
-<p style="width:100%; display:flex;" align="left">
+<p align="left">
     <h2>Buralardayım</h2>
     <a target="_blank" href="https://discordapp.com/users/705186989728858164">
       <img src="https://img.shields.io/badge/Discord-Delarmuss-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'">
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/Twitch-Delarmuss-9147FF?style=for-the-badge&logo=twitch">
     </a>
     <br />
-    <a  target="_blank" href="https://github.com/Delarmuss">
+    <a target="_blank" href="https://github.com/Delarmuss">
       <img src="https://img.shields.io/github/followers/Delarmuss?color=1DA1F2&logo=github&label=Followers&style=for-the-badge">
     </a>
 </p>
