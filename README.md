@@ -4,7 +4,7 @@
   [![delarmuss](https://github-readme-stats.vercel.app/api/top-langs/?username=delarmuss&layout=compact&title_color=f4f4f4&icon_color=03FCB5&text_color=f4f4f4&bg_color=1B1847)](https://github.com/delarmuss)
 </p> 
 
-<p align="left">
+<p style="width:100%; display:flex;" align="left">
     <h2>Buralardayım</h2>
     <a target="_blank" href="https://discordapp.com/users/705186989728858164">
       <img src="https://img.shields.io/badge/Discord-Delarmuss-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'">
