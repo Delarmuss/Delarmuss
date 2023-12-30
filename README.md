@@ -10,7 +10,7 @@
       <img src="https://img.shields.io/badge/Discord-Delarmuss-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=20&labelColor=000'">
     </a>
     <br />
-    <a target="_blank" href="www.youtube.com@delarmuss">
+    <a target="_blank" href="[www.youtube.com@delarmuss](https://www.youtube.com/@delarmuss)">
       <img src="https://img.shields.io/badge/Youtube-Delarmuss-FF0000?style=for-the-badge&logo=youtube">
     </a>
     <br />
